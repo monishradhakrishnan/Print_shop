@@ -175,36 +175,8 @@ git push origin main
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repo
-2. Create a feature branch: `git checkout -b feat/your-feature`
-3. Commit your changes: `git commit -m "feat: add ..."`
-4. Push and open a PR
-
-Please include a short description and any testing steps in your PR message.
-
----
-
-## 📝 Notes & Roadmap
-
-Planned improvements:
-
-* User accounts & authentication (JWT)
-* Payment integration / order confirmation flow
-* File storage in S3 and signed URLs
-* Admin dashboard for print shop (real-time updates)
-
----
-
 ## 📞 Contact / Author
 
-Built by **You** — feel free to open issues or reach out via GitHub.
+Built by **Monish** — feel free to open issues or reach out via GitHub.
 
 ---
-
-## ⚖️ License
-
-This project is available under the **MIT License** — add a `LICENSE` file if you want to keep it open-source.
